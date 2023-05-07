@@ -1,2 +1,2 @@
-# node-js-boiler-plate
-boiler plate using sequelize
+# url-shortner
+simple url-shortner backend
